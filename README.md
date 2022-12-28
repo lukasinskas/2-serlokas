@@ -62,7 +62,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-# Astronautas
+# Šerlokas
 
 _website design project_
 
