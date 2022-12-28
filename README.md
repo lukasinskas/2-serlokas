@@ -46,7 +46,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/41-grupe-ufo.git
+    git clone https://github.com/lukasinskas/2-serlokas.git
     ```
 2. Install NPM packages
     ```sh
@@ -72,9 +72,9 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/42-grupe-astronautas/
+Site published at: https://github.com/lukasinskas/2-serlokas
 
-Design: [Astronautas](https://cdn.dribbble.com/users/1355613/screenshots/5964475/space.gif)
+Design: [Šerlokas](https://i.pinimg.com/564x/66/c5/7b/66c57b9c554cd3f8354e2805b3654df9.jpg)
 
 ## 🎯 Project features/goals
 
@@ -104,7 +104,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/41-grupe-ufo.git
+    git clone https://github.com/lukasinskas/2-serlokas.git
     ```
 2. Install NPM packages
     ```sh
